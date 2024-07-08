@@ -40,4 +40,3 @@ from tkinter import *
 window = Tk()
 
 window.mainloop()
-# ==> | Continue from 17:26 | <==
