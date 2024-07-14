@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import messagebox
 
+# Window Dialog Message Box Concept
+
 
 def click():
     # messagebox.showinfo(title="Info message",
